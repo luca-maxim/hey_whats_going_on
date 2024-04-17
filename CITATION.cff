@@ -1,14 +1,27 @@
 cff-version: 1.2.0
 message: "If you use this software, please cite it as below."
 authors:
-- family-names: "YOUR_NAME_HERE"
-  given-names: "YOUR_NAME_HERE"
-  orcid: "https://orcid.org/0000-0000-0000-0000"
-- family-names: "YOUR_NAME_HERE"
-  given-names: "YOUR_NAME_HERE"
-  orcid: "https://orcid.org/0000-0000-0000-0000"
-title: "hey_whats_going_on"
-version: 1.0.0
-doi: 0000
-date-released: 2023-09-08
-url: 
+- family-names: "Meinhardt"
+  given-names: "Luca-Maxim"
+  orcid: "https://orcid.org/0000-0002-9524-4926"
+- family-names: "Rück"
+  given-names: "Maximilian"
+  orcid: "https://orcid.org/0009-0000-7840-5081"
+- family-names: "Zähnle"
+  given-names: "Julian"
+  orcid: "https://orcid.org/0009-0000-7840-5081"
+- family-names: "Elhaidary"
+  given-names: "Maryam"
+  orcid: "https://orcid.org/0009-0002-7658-0788"
+- family-names: "Colley"
+  given-names: "Mark"
+  orcid: "https://orcid.org/0000-0001-5207-5029"
+- family-names: "Rietzler"
+  given-names: "Michael"
+  orcid: "https://orcid.org/0000-0003-2599-8308"
+- family-names: "Rukzio"
+  given-names: "Enrico"
+  orcid: "https://orcid.org/0000-0002-4213-2226"
+title: "Hey, What's Going On? Conveying Traffic Information to People with Visual Impairments in Highly Automated Vehicles: Introducing OnBoard"
+doi: 10.1145/3659618
+date-released: 2024-05-05
